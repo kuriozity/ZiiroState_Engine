@@ -5,8 +5,8 @@ KurioZitY Present'ss
 
       ---------------------------------------------------------------------
                            KurioziTUX as  
-                            kiTUX 
-                                The ZiiroState & Blackout Engine 
+                               kiTUX =
+                      The ZiiroState & Blackout Engine 
        --------------------------------------------------------------------
 
 
@@ -15,14 +15,18 @@ Based On
           Debian as
                  KALILINUX
   --------------------------------------
-  
- kiTUX TOOL Suite :
+   as
+       //          kiTUX =
+                      The ZiiroState & Blackout Engine Rescuzser 1.0
+                      
+                                                                        //
+                                                                        
+                                                                        
+
  
- ProSpector - DBAFF  - EMSGTV - GTK - FITW - POSTAFIND - BAR
  
  
- 
- Prospector = 20  argumnts for 1 millions of line's code.
+
  ------------------------------------------------------------------------------
     whereis                                    
       whereiscont_          6 continents model                
