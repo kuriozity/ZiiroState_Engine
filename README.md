@@ -23,8 +23,9 @@ Based On
  
  
  Prospector = 20  argumnts for 1 millions of line's code.
- --------------------------------------------------------
- whereiscont_                       whereispays_
+ ------------------      Generir function's templates for SPECTOR -----------
+ whereis                                    
+ whereiscont_                 whereispays_
  whereiscont_eur                    whereispays_eur
  whereiscont_asi                    whereispays_asi
  whereiscont_oce                    whereispays_oce
